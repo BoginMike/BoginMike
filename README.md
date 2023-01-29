@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I'm Michael
 
-[!image]https://komarev.com/ghpvc/?username=boginmike&label=Profile%20views&color=0e75b6&style=flat
+<p align=“left”> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Agasthiyamalai_range_and_Tirunelveli_rainshadow.jpg" alt="BoginMike” /> </p
 
 ![image](https://github-profile-trophy.vercel.app/?username=BoginMike&no-frame=true)
 

@@ -6,8 +6,7 @@
 
 ### Hi there 👋 I'm Michael
 
-[!image]Profile views
-
+[!image]https://komarev.com/ghpvc/?username=boginmike&label=Profile%20views&color=0e75b6&style=flat
 
 ![image](https://github-profile-trophy.vercel.app/?username=BoginMike&no-frame=true)
 

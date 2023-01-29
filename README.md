@@ -6,6 +6,8 @@
 
 ### Hi there 👋 I'm Michael
 
+[!image]Profile views
+
 
 ![image](https://github-profile-trophy.vercel.app/?username=BoginMike&no-frame=true)
 

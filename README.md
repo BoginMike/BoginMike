@@ -15,4 +15,4 @@ I am currently learning Linux Ubuntu, Git and GitHub, HTML5, CSS3, JavaScript, R
 
 You can reach me at  BoginMike@gmail.com
 
-My Linked-In link: https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYIpSkRwBSkO%2FjixcjaRCvg%3D%3D
+My Linked-In link: [!image]https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYIpSkRwBSkO%2FjixcjaRCvg%3D%3D
